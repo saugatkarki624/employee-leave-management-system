@@ -1,0 +1,5 @@
+body { background: #f4f6f9; min-height: 100vh; display: flex; flex-direction: column; }
+main { flex: 1; }
+.login-card { max-width: 420px; margin: 8vh auto 0; }
+.stat-card .display-6 { font-weight: 700; }
+.stat-card { border: 0; border-left: 4px solid var(--bs-primary); }
